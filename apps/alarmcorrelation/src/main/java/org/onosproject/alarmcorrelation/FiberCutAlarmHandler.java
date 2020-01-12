@@ -67,7 +67,7 @@ public final class FiberCutAlarmHandler {
     public static boolean checkLoS(DeviceId deviceId, PortNumber port) {
 
         //log.debug("\n\n [FiberCutAlarmHandler - checkLoS] We entered the function \n" +
-                         "{}/{}", deviceId, port);
+        //                 "{}/{}", deviceId, port);
         //FIXME: Probably it is necessary to invoke AlarmService each time here, to get fresh data.. ?
         alarmService = AbstractShellCommand.get(AlarmService.class);
 
