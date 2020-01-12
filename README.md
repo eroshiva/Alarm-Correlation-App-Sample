@@ -1,4 +1,6 @@
 # Alarm Correlation Function
+*This work was done in Nokia Bell Labs France. All rights reserved by Nokia.*
+
 ## Description
 This Alarm Correlation Function is composed as a SDN application for ONOS. 
 It targets to detect and localize the *"fiber cut"* scenario in optical networks. 
