@@ -1,5 +1,5 @@
 # Alarm Correlation Function
-It is a concept of an Alarm Correlation Function for multi-vendor environment as a SDN application.
+It is a concept of an Alarm Correlation Function for multi-vendor environment as a SDN application (developed in ONOS v.2.2).
 
 ## Description
 This Alarm Correlation Function is composed as a SDN application for ONOS. 
